@@ -1,10 +1,10 @@
 # Windows Vagrant Setup
 
-This vagrant box spins up a Windows Enterprise Evaluation machine with Chrome, Firefox and Notepad++ preinstalled.
+This vagrant box spins up a Windows Enterprise Evaluation machine with Chrome and Firefox preinstalled.
 
 The Windows is debloated during the setup (removing all the bullshit Microsoft is preinstalling).
 
-The keyboard is set to a German layout. Adjust `scripts/keyboard.ps1` if you want something else.
+The keyboard is set to a French layout. Adjust `scripts/keyboard.ps1` if you want something else.
 
 
 ## Run
